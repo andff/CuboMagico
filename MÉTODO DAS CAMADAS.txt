@@ -1,0 +1,38 @@
+F = FRENTE
+E = ESQUEDA
+D = DIREITA
+T = TOPO
+B = BAIXO
+
+# FLOR AMARELA EM CIMA
+
+# CRUZ BRANCA EM BAIXO
+
+# FAZER O PRIMEIRO ANDAR
+(Se branco do 3º andar estiver na esquerda)
+E' T' E 
+
+(Se branco do 3º andar estiver na direita)
+D T D'
+
+# TERMINANDO O SEGUNDO ANDAR
+(Escolha um lado, que o meio do terceiro andar que não possui amarelo)
+
+# PRA ACHAR A CRUZ AMARELA
+F D T D' T' F'
+
+# PRA ACHAR O PEIXE AMARELO
+
+
+#PRA FICAR O TOPO TODO AMARELO
+(COLOQUE A CABEÇA DO PEIXE PRA DIAGONAL BAIXO-ESQUERDA)
+D T D' T D T T D'
+
+# PRA ?
+(Vira pra face que tem duas cores iguais na frente)
+(Vira o topo amarelo pra frente)
+D T' D B B D' T' D B B
+
+# PRA FINALIZAR
+(lateral pronta pra tras)
+F F (T ou T') D' E' F F D E'
