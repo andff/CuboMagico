@@ -17,6 +17,12 @@ D T D'
 
 # TERMINANDO O SEGUNDO ANDAR
 (Escolha um lado, que o meio do terceiro andar que não possui amarelo)
+- SE FALTA DO LADO DIREITO
+T D T' D' T' F' T F
+
+- SE FALTA DO LADO ESQUERDO
+T' E' T E T F T' F'
+
 
 # PRA ACHAR A CRUZ AMARELA
 F D T D' T' F'
