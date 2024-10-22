@@ -4,41 +4,40 @@ D = DIREITA
 T = TOPO
 B = BAIXO
 
-# FLOR AMARELA EM CIMA
+###########################################
 
-# CRUZ BRANCA EM BAIXO
+1º PASSO - FLOR AMARELA EM CIMA
 
-# FAZER O PRIMEIRO ANDAR
+2º PASSO - CRUZ BRANCA EM BAIXO
+
+3º PASSO - FAZER O PRIMEIRO ANDAR
 (Se branco do 3º andar estiver na esquerda)
-E' T' E 
-
+- E' T' E 
 (Se branco do 3º andar estiver na direita)
-D T D'
+- D T D'
 
-# TERMINANDO O SEGUNDO ANDAR
+4º PASSO - TERMINANDO O SEGUNDO ANDAR
 (Escolha um lado, que o meio do terceiro andar que não possui amarelo)
-- SE FALTA DO LADO DIREITO
-T D T' D' T' F' T F
+(SE FALTA DO LADO DIREITO)
+- T D T' D' T' F' T F
+(SE FALTA DO LADO ESQUERDO)
+- T' E' T E T F T' F'
 
-- SE FALTA DO LADO ESQUERDO
-T' E' T E T F T' F'
+5º PASSO - PRA ACHAR A CRUZ AMARELA
+- F D T D' T' F'
 
-
-# PRA ACHAR A CRUZ AMARELA
-F D T D' T' F'
-
-# PRA ACHAR O PEIXE AMARELO
+6º PASSO - PRA ACHAR O PEIXE AMARELO
 
 
-#PRA FICAR O TOPO TODO AMARELO
+7º PASSO - PRA FICAR O TOPO TODO AMARELO
 (COLOQUE A CABEÇA DO PEIXE PRA DIAGONAL BAIXO-ESQUERDA)
-D T D' T D T T D'
+- D T D' T D T T D'
 
-# PRA ?
+8º PASSO - ?
 (Vira pra face que tem duas cores iguais na frente)
 (Vira o topo amarelo pra frente)
-D T' D B B D' T' D B B
+- D T' D B B D' T' D B B
 
-# PRA FINALIZAR
-(lateral pronta pra tras)
-F F (T ou T') D' E' F F D E'
+9º PASSO - PRA FINALIZAR
+(lateral pronta pra trás)
+- F F (T ou T') D' E' F F D E'
