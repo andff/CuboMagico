@@ -1,0 +1,1 @@
+Soporte cubo rubik by CRBLOGS on Thingiverse: https://www.thingiverse.com/thing:5996556
